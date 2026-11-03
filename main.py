@@ -13,7 +13,7 @@ try:
         case "/":
             print(f"the result is : {a/b}")
         case defult:
-            print(f"there wasan error")
+            print(f"there was an error")
 except Exception as e:
     print("Enter a valid value of a and b")
     
